@@ -1,0 +1,7 @@
+{
+  "name": "Gesture Particle Morph",
+  "description": "A 3D interactive particle system controlled by hand gestures using Three.js and MediaPipe.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
